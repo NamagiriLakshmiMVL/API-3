@@ -1,0 +1,17 @@
+.container {
+    border: 3px solid black;
+    text-align: center;
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+body {
+    background-image: linear-gradient(pink, cyan);
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+
+}
